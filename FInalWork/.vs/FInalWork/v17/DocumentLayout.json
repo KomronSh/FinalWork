@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IT_in_PD\\23VA1\\FinalWork\\FInalWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14058DA7-C2DB-4109-ADE2-C181E2732E32}|FInalWork.vcxproj|C:\\IT_in_PD\\23VA1\\FinalWork\\FInalWork\\FInalWork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14058DA7-C2DB-4109-ADE2-C181E2732E32}|FInalWork.vcxproj|solutionrelative:FInalWork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FInalWork.cpp",
+              "DocumentMoniker": "C:\\IT_in_PD\\23VA1\\FinalWork\\FInalWork\\FInalWork.cpp",
+              "RelativeDocumentMoniker": "FInalWork.cpp",
+              "ToolTip": "C:\\IT_in_PD\\23VA1\\FinalWork\\FInalWork\\FInalWork.cpp",
+              "RelativeToolTip": "FInalWork.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T17:48:56.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
